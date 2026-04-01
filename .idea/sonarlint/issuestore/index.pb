@@ -39,3 +39,23 @@ H
 strategy/Margherita.java,7/c/7c6627558beb8b70f34ec07d12753d4be0e6d091
 B
 strategy/Main.java,1/3/13a9ebac6773f4e96ff0f46073b0df416983b72f
+J
+proxy/EmployeeService.java,8/3/83526279f3f1fb7c10d87619962ffed32b421dae
+N
+proxy/EmployeeServiceImpl.java,8/c/8cb1515cd8a44eb9b26db662d822438117cabe3f
+O
+proxy/EmployeeServiceProxy.java,9/1/915c61e7a1f9e932b6efa0f954004412b6ebe5c7
+?
+proxy/Main.java,5/5/551daefc77a7c394abe27cebb87b911c0303e7de
+E
+facade/Inventory.java,3/a/3a80ebe15ef00748c3b0d708f83a0400cc026bd9
+C
+facade/Payment.java,4/0/40fb4fc6535fb449a072817d0f3766181bb0709e
+C
+facade/Kitchen.java,6/e/6e8096b4fe1a819803c8b473ca0b5c6bbf99a1b5
+H
+facade/Notification.java,9/3/9327f7274e00d04c1a38ff3de3e460474dac83b4
+L
+facade/PizzaOrderFacade.java,0/c/0cefa9d909919e6f9fd02b4417c49879cec8c3cc
+D
+facade/PizzaApp.java,f/5/f55c821b17d18af5f036f06bebd2c0553fa1b03c
