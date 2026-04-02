@@ -55,8 +55,6 @@ L
 facade/PizzaOrderFacade.java,0/c/0cefa9d909919e6f9fd02b4417c49879cec8c3cc
 D
 facade/PizzaApp.java,f/5/f55c821b17d18af5f036f06bebd2c0553fa1b03c
-M
-singleton/EagerSingleton.java,3/f/3fd7bd357ec08f0515584444b1669933837dc946
 S
 #singleton/eager/EagerSingleton.java,f/3/f3cfa29426928747a9b8034cb087609453c1dc20
 V
@@ -65,3 +63,47 @@ Y
 )singleton/staticinnerclass/Singleton.java,9/1/91788e5e1a8a5e1e829f78839945d33b10e45b11
 Q
 !singleton/lazy/LazySingleton.java,0/3/0327eb93f48114ec78a9579f57f9dfd92e1b9557
+L
+factory/simple/Employee.java,2/b/2b7cd10a738ccd3e0401d5a6e994be81adf9689d
+P
+ factory/simple/WebDeveloper.java,6/f/6f5b73bd7ff39b71686023f09ddd9aab7153b453
+T
+$factory/simple/AndroidDeveloper.java,3/3/33943c79b7684d19de523b912e2231c6f5798c42
+S
+#factory/simple/EmployeeFactory.java,1/b/1bddb312aeb58642db146216530e55bcab2cb356
+H
+factory/simple/Main.java,6/3/637db377c69b0e3fc3acd402c4150fbb18871275
+U
+%factory/abstractfactory/Employee.java,0/c/0ce5a4a7d3f8895b5deaccb25b41335fd82d1102
+Y
+)factory/abstractfactory/WebDeveloper.java,e/1/e1cd9748fea621c79323de0729445eda5e85e466
+]
+-factory/abstractfactory/AndroidDeveloper.java,1/d/1d6ea48741c73832dbf1653b95357613d3033b93
+d
+4factory/abstractfactory/EmployeeAbstractFactory.java,d/1/d1ac02ebbfaa4a27e55aabdc7ac8157274cfcf5d
+^
+.factory/abstractfactory/AndroidDevFactory.java,6/9/693f77d9dcee9c4a44510fa71e986447e6eb1aa0
+Z
+*factory/abstractfactory/WebDevFactory.java,f/f/ff635856b06261d32483a5f991cbe74b93e0e82a
+\
+,factory/abstractfactory/EmployeeFactory.java,f/2/f2fafbc8556c58039b8094fb935d9cac6152c8cc
+Q
+!factory/abstractfactory/Main.java,c/c/cc61a48b8ac43fca04047810c2cba5016372fc67
+P
+ factory/method/Notification.java,6/3/635319104296d32d98c57faae0bdf0d270420969
+U
+%factory/method/EmailNotification.java,5/0/506a51799ac1655acd0d5f875cee2f86731ed714
+S
+#factory/method/SMSNotification.java,6/5/65f5b899b946cb14efa77c69acaf2d3e70cdc477
+W
+'factory/method/NotificationFactory.java,a/2/a24e7527a2865302b81ec2657808e7cfe81c6622
+P
+ factory/method/EmailFactory.java,b/1/b1e5765be9b27208c8c935d7a105aac41ad2ae6f
+N
+factory/method/SMSFactory.java,0/a/0a2933011e87b447ff627eb1748aee8af684e1ab
+H
+factory/method/Main.java,2/8/28d9b1d6ade77671ec48ca0fee39c04890702e90
+A
+builder/User.java,a/e/ae55e28e3f489a7a781e703ac18f534b0681cf7e
+A
+builder/Main.java,7/9/797f6ba97db33a015edf1d9dffd7fafa6a506d8d
