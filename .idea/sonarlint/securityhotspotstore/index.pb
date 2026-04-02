@@ -7,8 +7,6 @@ A
 adapter/Main.java,5/a/5af9fbd366b6d67e9374ef3d765a8fa0870f32c3
 K
 adapter/PrinterAdapter.java,a/8/a8c4c2e20708bffc7d8a4244a95570550d8ac74e
-D
-decorator/Pizza.java,4/0/40c6ab814df0a6ac17cf8a0bf240090cf082dcfd
 H
 decorator/BasePizza.java,2/4/2417e93437032106fa3273f7f134d49d5f75b744
 H
@@ -21,8 +19,6 @@ O
 decorator/ToppingDecorator.java,b/2/b260f170f760222f34a5794b11d4f5c3ebe2e8aa
 J
 decorator/ExtraCheese.java,d/3/d3891d478a9668b9d997b60d917e21c475700982
-G
-composite/Mushroom.java,3/0/30722879a60a407339e2e29c602a69088722a7e4
 G
 decorator/Mushroom.java,3/8/38b336f19cb6b1cc79fd338cf2552265acd4d8dc
 C
@@ -59,3 +55,13 @@ L
 facade/PizzaOrderFacade.java,0/c/0cefa9d909919e6f9fd02b4417c49879cec8c3cc
 D
 facade/PizzaApp.java,f/5/f55c821b17d18af5f036f06bebd2c0553fa1b03c
+M
+singleton/EagerSingleton.java,3/f/3fd7bd357ec08f0515584444b1669933837dc946
+S
+#singleton/eager/EagerSingleton.java,f/3/f3cfa29426928747a9b8034cb087609453c1dc20
+V
+&singleton/enumsingleton/Singleton.java,b/5/b521f83e2300e5cba328036a6074980d38fd4fef
+Y
+)singleton/staticinnerclass/Singleton.java,9/1/91788e5e1a8a5e1e829f78839945d33b10e45b11
+Q
+!singleton/lazy/LazySingleton.java,0/3/0327eb93f48114ec78a9579f57f9dfd92e1b9557
